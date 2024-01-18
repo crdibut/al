@@ -2,7 +2,7 @@
      background: rgb(58,115,143);
 }*/
 .header {
-	position: relative;
+	position: sticky;
 	height: 80px;
 	width:100%;
 	text-align: center;
